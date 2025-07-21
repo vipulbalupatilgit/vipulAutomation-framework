@@ -1,10 +1,10 @@
 package stepdefinitions;
 
-import baseclass.BaseClass;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import pageactions.LoginPageActions;
+import testBase.BaseClass;
 
 public class LoginPageStepDefinition {
 	LoginPageActions actions = new LoginPageActions();

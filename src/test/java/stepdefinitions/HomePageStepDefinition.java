@@ -2,8 +2,8 @@ package stepdefinitions;
 
 
 	import pageactions.HomePageActions;
-	import baseclass.BaseClass;
-	import io.cucumber.java.After;
+import testBase.BaseClass;
+import io.cucumber.java.After;
 	import io.cucumber.java.Before;
 	import io.cucumber.java.en.Given;
 

@@ -1,8 +1,8 @@
 package pageactions;
 
 
-import baseclass.BaseClass;
 import pageobjects.HomePageObjects;
+import testBase.BaseClass;
 
 public class HomePageActions {
 	HomePageObjects homePage = new HomePageObjects(BaseClass.getDriver());
